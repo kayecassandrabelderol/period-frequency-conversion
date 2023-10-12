@@ -87,7 +87,7 @@
             this.cmb_timeunit.FormattingEnabled = true;
             this.cmb_timeunit.Items.AddRange(new object[] {
             "Seconds",
-            "Miliseconds",
+            "Milliseconds",
             "Microseconds",
             "Nanoseconds",
             "Picoseconds"});
